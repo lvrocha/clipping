@@ -1,0 +1,11 @@
+Instruções Teste Técnico
+Desenvolver um MVP utilizando o arquivo .json disponiblizado de uma página
+de vendas de cursos;
+Requisitos:
+    # O usuário precisa visualizar os cursos disponíveis;
+    # Selecionar cursos;
+    # Clicar em um botão e gerar uma listagem das opções selecionadas com o valor total;
+Informações complementares:
+    - Utilizar ReactJS ou o framework JS de sua preferência;
+    - Qualidade visual não é prioridade;
+    - Resultado final commitado em um repositório GIT;
