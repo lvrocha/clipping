@@ -1,0 +1,23 @@
+{
+  "name": "clipping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvrocha/clipping.git"
+  },
+  "author": "Lucas Vilhena Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvrocha/clipping/issues"
+  },
+  "homepage": "https://github.com/lvrocha/clipping#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
