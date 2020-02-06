@@ -4,7 +4,7 @@ $(function(){
         console.log(data);
         $.each(data, function(i, item){
             let name = item.name;
-            let name_td = $('<td>').append(name);
+            let link = $('<a>').attr("class", item.)
             let price = item.price;
             let price_td = $('<td>').append(price);
             let tr1 = $('<tr>').html("").append(name_td, price_td);
